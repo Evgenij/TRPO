@@ -8,7 +8,7 @@ StringSplitOptions.RemoveEmptyEntries))
 
 //-----------------------------------------------------------------
 
- void method16()
+ void SomeFunction()
 {
 	var sourceId;
 	foreach (string id in sourceIDs.Split(new char[] { ',' },StringSplitOptions.RemoveEmptyEntries))

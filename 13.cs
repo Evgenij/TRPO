@@ -5,7 +5,7 @@ string lastName = customer.Name.Replace(nameParts[0], "").TrimStart(' ');
 
 //----------------------------------------------------------------
 
-void method13(string fullName)
+void divisionNames(string fullName)
 {
 	var names = fullName.Split(' ');
 	string firstName = names[0];

@@ -10,7 +10,7 @@ txtContacts.Text += contact;
 
 //-----------------------------------------------------------------------
 
-void method21()
+void SomeFunction()
 {
 	txtContacts.Text = "";
 	bool first = true;

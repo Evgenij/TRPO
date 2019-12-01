@@ -8,11 +8,11 @@ if(ids.Length > 0) { throw Exception;}
 
 //---------------------------------------------------------------------------------------
 
-void kekException()
+void Exception()
 {
     if(isException(form.Keys)) 
         throw Exception;
 }
 bool isException(int a){
-    return a.Length == 0 || a.Length >1
+    return a.Length == 0 || a.Length > 1;
 }

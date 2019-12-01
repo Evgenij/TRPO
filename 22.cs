@@ -5,7 +5,7 @@ if (Game1.clou == true)
 
 //------------------------------------------
 
-void method22()
+void Gaming()
 {
     Game1.clou = !Game1.clou; 
 }
