@@ -8,8 +8,9 @@ fl_end = true;
 
 //---------------------------------------------
 
-void method10()
-{    while(true){}
+void Connecting()
+{    
+    while(true){}
     if (Connected == 0))
     {
         rez = setup();
