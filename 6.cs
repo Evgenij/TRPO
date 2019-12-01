@@ -15,7 +15,7 @@ SubFolder.Replace('\\', '/') + dir.Name.Replace('\\', '/')).Length), 0, 4);
 
 //-----------------------------------------------------------
 
-void kek()
+void SomeFunction()
 {
 	foreach (DirectoryInfo dir in dirs.GetDirectories())
 	{
